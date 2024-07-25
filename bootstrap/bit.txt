@@ -1,0 +1,7 @@
+.background {
+    height: 100vh;
+    width: 100%;
+    opacity: 5;
+    background: url("") center/cover no-repeat;
+    
+}
